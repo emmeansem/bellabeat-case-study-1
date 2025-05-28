@@ -2,11 +2,6 @@ I recently completed the **Google Data Analytics Certificate on Coursera**, a co
 
 This is a portfolio-ready case study for Bellabeat, a wellness technology company. It follows the six-step data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
-## 📌 Project Contents
-
-- `case_study/`: Full written analysis
-- `presentation/`: Visualizations and charts
-- `resources/`: Supporting documents
 
 ## 📈 Visuals
 
