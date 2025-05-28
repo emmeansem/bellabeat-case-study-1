@@ -1,0 +1,50 @@
+# Bellabeat Case Study: How Can a Wellness Technology Company Play It Smart?
+
+## 📌 Business Task
+
+Analyze smart device usage data to identify trends and apply those insights to Bellabeat's product marketing strategy.
+
+## 🏢 About Bellabeat
+
+Bellabeat is a high-tech company manufacturing wellness-focused smart products for women, such as the Leaf tracker, Time watch, Spring bottle, and the Bellabeat app.
+
+## 🔍 Data Sources
+
+- **Primary**: [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
+- **Limitations**: Small sample, user bias, no Bellabeat-specific data
+
+## 🛠 Data Preparation & Processing
+
+- Used R and spreadsheets for cleaning
+- Removed NA values and duplicates
+- Joined activity and sleep datasets for combined insights
+
+## 📊 Analysis Summary
+
+- Users average 7,500 steps/day; only 20% meet 10,000-step goal
+- Most users are less active on weekends
+- Sleep averages are below recommended levels
+
+## 🔑 Key Insights
+
+- Target audience often doesn't reach activity or sleep goals
+- Bellabeat can promote app features to encourage goal tracking and consistency
+- Mindfulness features underused; opportunity to educate and promote
+
+## ✅ Recommendations
+
+1. Highlight sleep and activity tracking in marketing
+2. Use personalized goal nudges
+3. Develop weekend engagement strategies
+4. Promote premium mindfulness features
+
+## 📈 Visuals
+
+See `presentation/` folder for included graphs:
+- Daily step counts
+- Weekend vs weekday activity
+- Sleep distribution
+
+## 🚀 Final Thoughts
+
+Bellabeat is positioned to grow by aligning its product capabilities with wellness trends. Data-driven marketing and user-friendly app features will help drive engagement and improve user outcomes.
